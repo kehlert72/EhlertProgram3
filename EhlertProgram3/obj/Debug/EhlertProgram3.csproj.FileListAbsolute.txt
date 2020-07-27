@@ -1,0 +1,10 @@
+C:\Users\Kaleb\source\repos\EhlertProgram3\EhlertProgram3\bin\Debug\EhlertProgram3.exe.config
+C:\Users\Kaleb\source\repos\EhlertProgram3\EhlertProgram3\bin\Debug\EhlertProgram3.exe
+C:\Users\Kaleb\source\repos\EhlertProgram3\EhlertProgram3\bin\Debug\EhlertProgram3.pdb
+C:\Users\Kaleb\source\repos\EhlertProgram3\EhlertProgram3\obj\Debug\EhlertProgram3.csprojResolveAssemblyReference.cache
+C:\Users\Kaleb\source\repos\EhlertProgram3\EhlertProgram3\obj\Debug\EhlertProgram3.Properties.Resources.resources
+C:\Users\Kaleb\source\repos\EhlertProgram3\EhlertProgram3\obj\Debug\EhlertProgram3.csproj.GenerateResource.Cache
+C:\Users\Kaleb\source\repos\EhlertProgram3\EhlertProgram3\obj\Debug\EhlertProgram3.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb\source\repos\EhlertProgram3\EhlertProgram3\obj\Debug\EhlertProgram3.exe
+C:\Users\Kaleb\source\repos\EhlertProgram3\EhlertProgram3\obj\Debug\EhlertProgram3.pdb
+C:\Users\Kaleb\source\repos\EhlertProgram3\EhlertProgram3\obj\Debug\EhlertProgram3.Gardening_Guide.resources
